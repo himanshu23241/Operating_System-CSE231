@@ -11,4 +11,10 @@ CSE231-Operating Systems course taken by Himanshu (2023241) and Harsh Gupta (202
 # OS   GROUP ID:- 103
 
 Assignment-01: • SimpleLoader: An ELF Loader in C from Scratch
+• How to Run
+1. Download the directory from the GitHub repository name “Operating_System-CSE231”.
+2. Go to the (loader\upload\starter\without-bonus) on your terminal.
+3. run 'make' command after that run  './loader fib'.
+4. get output.
+
  
